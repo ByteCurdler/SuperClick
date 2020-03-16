@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: superclick-ILikePython256
+Version: 0.0.1
+Summary: A tool for clicking at insane speeds.
+Home-page: https://github.com/ILikePython256/SuperClick
+Author: ILikePython256
+License: UNKNOWN
+Description: # SuperClick
+        A tool for clicking at insane speeds.
+        ## Usage
+        In a terminal:
+        ```python3 -m superclick```
+        - Hold S+C to click
+        - Press S+Q to quit
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU LGPL 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

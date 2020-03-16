@@ -1,0 +1,7 @@
+README.md
+setup.py
+superclick/__init__.py
+superclick_ILikePython256.egg-info/PKG-INFO
+superclick_ILikePython256.egg-info/SOURCES.txt
+superclick_ILikePython256.egg-info/dependency_links.txt
+superclick_ILikePython256.egg-info/top_level.txt
