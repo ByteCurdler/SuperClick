@@ -10,7 +10,7 @@ setuptools.setup(
     description="A tool for clicking at insane speeds.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ILikePython256/superclick",
+    url="https://github.com/ILikePython256/SuperClick",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
