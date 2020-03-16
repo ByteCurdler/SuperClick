@@ -5,7 +5,7 @@ Key = pynput.keyboard.Key
 CharToCode = pynput.keyboard.KeyCode.from_char
 Button = pynput.mouse.Button
 
-HOT_KEY =           CharToCode("s")
+HOT_KEY =           Key.cmd
 LEFT_CLICK_KEY =    CharToCode("c")
 RIGHT_CLICK_KEY =   CharToCode("v")
 STOP_KEY =          CharToCode("q")

@@ -1,7 +1,9 @@
 # SuperClick
-A tool for clicking at insane speeds.
+A tool for clicking at speeds up to 180+ clicks/s.
 ## Usage
 In a terminal:
 ```python3 -m superclick```
-- Hold S+C to click
-- Press S+Q to quit
+Super/Cmd is the default hotkey
+- Hold Hot+C to left-click
+- Hold Hot+V to right-click
+- Press Hot+Q to quit
