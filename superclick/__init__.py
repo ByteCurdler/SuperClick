@@ -54,4 +54,4 @@ while not is_stopped:
     if is_right_active:
         mc.press(Button.right)
         mc.release(Button.right)
-    time.sleep(0.0075)
+    time.sleep(0.015)
